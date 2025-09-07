@@ -14,7 +14,7 @@ Features:
 -User-friendly interface
 
 
-### 2. Password Generator (generate random string)
+### 2. Password Generator (password-generator)
 
 Description: A secure password generator application
 Technologies Used: React.js, JavaScript
@@ -39,23 +39,12 @@ Features:
 
 🚀 How to Run Projects:-
 
-Clone this repository:
-bashgit clone https://github.com/jeetagravat10/react_project.git
+1.Clone this repository
+2.Go to any project folder
+3.Run npm install
+4.Run npm start
+5.Open http://localhost:3000
 
-Navigate to any project folder:
-bashcd react_project/01-twxt-translator
-# or
-cd react_project/password-generator
-# or
-cd react_project/react-router-dom
-
-Install dependencies:
-bashnpm install
-
-Start the development server:
-bashnpm start
-
-Open http://localhost:3000 in your browser.
 
 🛠️ Technologies Used:-
 
