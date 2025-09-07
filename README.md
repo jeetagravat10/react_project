@@ -43,7 +43,6 @@ This repository contains my **3 React projects** completed during my Front-end i
 2. Go to any project folder
 3. Run `npm install`
 4. Run `npm start`
-5. Open http://localhost:3000
 
 ## 🛠️ Technologies Used
 
